@@ -75,3 +75,9 @@ After running the Streamlit application, enter the above URL and schema and clic
   ]
 }
 ```
+
+Video Demo
+
+https://github.com/Nehlr1/Web-Data-Extractor/assets/87631464/302c7810-db3c-48b8-a450-b527590e6125
+
+
