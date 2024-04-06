@@ -17,7 +17,7 @@ Getting Started
 1. Clone the repository:
 
    ```
-   git clone https://github.com/<username>/web-data-extractor.git
+   git clone https://github.com/Nehlr1/Web-Data-Extractor.git
    ```
 
 2. Install the required packages:
